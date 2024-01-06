@@ -3,4 +3,4 @@ Tic Tac Toe game using html css and js by two player X and player O . and after 
 
 # Deployment Tic-Tac-Toe Game 
 
-[Tic Tac Toe](https://ganesh51-stone-paper-scissors.netlify.app/)
+[Tic Tac Toe](https://ganeshskl.netlify.app/)
